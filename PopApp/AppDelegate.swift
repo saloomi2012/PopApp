@@ -3,7 +3,7 @@
 //  PopApp
 //
 //  Created by Suliman Alsaid on 2/18/19.
-//  Copyright © 2019 Suliman Alsaid. All rights reserved.
+//  Copyright © 2019 Suliman Alsaid & Morgan Forester. All rights reserved.
 //
 
 import UIKit
